@@ -1,4 +1,4 @@
-LATEST LINK CAN BE FOUND AT TWITTER
+LATEST LINK CAN BE FOUND AT [TWITTER](https://twitter.com/go_simulator)
 
 ## Go_Simulator
 
