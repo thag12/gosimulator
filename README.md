@@ -8,63 +8,44 @@ Upon installing the app, always try to move it to system applications in order t
 
 Always remove the previous version completely and reboot before installing the update.
 
- 
 
-- Pokemon flee on the first throw, i spin the stop but no loot! Why?
+**Pokemon flee on the first throw, i spin the stop but no loot! Why?**
 
 You are softbanned. Don't jump continents, or wait 6 hours logged out before you do. The app can take care of the softban if you have a pokestop nearby. The trick involves opening the pokestop, spinning it, and closing - do this around 40 times (if you are interested how it works).
 
- 
-
-- Will you make this app for my Apple or Windows phone? Why does the app crash on startup?
+**Will you make this app for my Apple or Windows phone?**
 
 No.  There are no plans to make apps for these other platforms.
 
-- Intel based android phones are not supported.  Google your model if you are not sure before posting here for help.  Popular Intel based phones include the ASUS Zenfone series.   Currently there are no plans to support these phones.
+**Why does the app crash on startup?**
 
- 
+Intel based android phones are not supported.  Google your model if you are not sure before posting here for help.  Popular Intel based phones include the ASUS Zenfone series.   Currently there are no plans to support these phones.
 
-- I am receiving errors, force closes, etc:
+**I am receiving errors, force closes, etc:**
 
 Try these standard troubleshooting steps:
 
-Access settings, Apps, and select GO Simulator.
-
-Force Stop
-
-Clear Cache
-
-Clear Data
-
-Toggle Airplane mode
-
-Reboot Phone
-
-Remove / Reinstall latest version
+- Access settings, Apps, and select GO Simulator.
+- Force Stop
+- Clear Cache
+- Clear Data
+- Toggle Airplane mode
+- Reboot Phone
+- Remove / Reinstall latest version
 
  
 
-- After a fresh install, tweak as few options as possible to start off.
-
-Access settings.
-
-Access login info.
-
-Add username, password, and select google account indicator if applicable.
-
-For google, the full email address is needed.  Passwords are also CaSe sensitive. 
-
-This means your username is YourMail@gmail.com and your password is yOuRpaSsSword12345
-
-Click the back arrow.
-
-Now access app settings.
-
-Start at slow speed and use a pre defined route. Generally try to use the one closest to you to avoid jumping continents.
-
-A good rule of thumb is to use a GPS spoofing app and go to the place you plan spoofing in the PoGO app itself before starting the app.
-
-Test it out and make sure it works.  Now start adding additional options/tweaks one at a time.  Once you receive an error/issue, see if you can repeat it.  If you find a repeatable error, post in the thread your exact steps to make it happen.
+**After a fresh install, tweak as few options as possible to start off.**
+1. Access settings.
+2. Access login info.
+    - Add username, password, and select google account indicator if applicable.
+    - For google, the full email address is needed.  Passwords are also CaSe sensitive. This means your username is YourMail@gmail.com and your password is yOuRpaSsSword12345
+3. Click the back arrow.
+4. Now access app settings.
+5. Start at slow speed and use a pre defined route. 
+     - Generally try to use the one closest to you to avoid jumping continents.
+     - A good rule of thumb is to use a GPS spoofing app and go to the place you plan spoofing in the PoGO app itself before starting the app.
+6. Test it out and make sure it works.  Now start adding additional options/tweaks one at a time.  Once you receive an error/issue, see if you can repeat it.  If you find a repeatable error, post in the thread your exact steps to make it happen.
 
  
 
