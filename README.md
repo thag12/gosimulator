@@ -9,6 +9,8 @@ Upon installing the app, always try to move it to system applications in order t
 Always remove the previous version completely and reboot before installing the update.
 
 
+## Q&A
+
 **Pokemon flee on the first throw, i spin the stop but no loot! Why?**
 
 You are softbanned. Don't jump continents, or wait 6 hours logged out before you do. The app can take care of the softban if you have a pokestop nearby. The trick involves opening the pokestop, spinning it, and closing - do this around 40 times (if you are interested how it works).
@@ -36,6 +38,7 @@ Try these standard troubleshooting steps:
  
 
 **After a fresh install, tweak as few options as possible to start off.**
+
 1. Access settings.
 2. Access login info.
     - Add username, password, and select google account indicator if applicable.
